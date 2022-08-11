@@ -16,3 +16,6 @@ https://www.runoob.com/linux/linux-tutorial.html
 
 GCC and Make - Compiling, Linking and Building C/C++ Applications<br>
 https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
+
+Automation and Make<br>
+https://swcarpentry.github.io/make-novice/
